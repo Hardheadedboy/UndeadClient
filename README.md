@@ -1,5 +1,5 @@
 # UndeadClient
-just a client i made for fun
+just a client i made for fun put in mods folder and hit right ctrl to open menu ui
 /*
 =========================================================
 PROPRIETARY SOFTWARE LICENSE
